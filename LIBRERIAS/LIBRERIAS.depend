@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1614431243 source:c:\users\byrontosh\desktop\librerias\main.cpp
+	<iostream>
+	"dos.h"
+	"tres.h"
+	<operaciones>
+
+1614429616 c:\users\byrontosh\desktop\librerias\uno.h
+
+1614429977 c:\users\byrontosh\desktop\librerias\dos.h
+	<iostream>
+
+1614429847 c:\users\byrontosh\desktop\librerias\tres.h
+	<iostream>
+
