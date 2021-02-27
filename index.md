@@ -17,6 +17,7 @@ layout: default
   <li><a href="https://github.com/BYRONTOSH/Ordenamiento/tree/insercion" target="_blank">Inserción</a></li>
   <li><a href="https://github.com/BYRONTOSH/Ordenamiento/tree/seleccion" target="_blank">Selección</a></li>
    <li><a href="https://github.com/BYRONTOSH/Ordenamiento/tree/mergesort" target="_blank">MergeSort</a></li>
+   <li><a href="https://github.com/BYRONTOSH/Plantilla/tree/quicksort" target="_blank">QuickSort</a></li>
   
 </ul>
 
