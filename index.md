@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/BYRONTOSH/Plantilla/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<h1>Ejercicios con Algoritmos de Ordenamiento</h1>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<div align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT80aoB0F1j-BIij97MMvrSJp8hiiM5BiR1LQ&usqp=CAU">
+</div>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<ul>
 
-- Bulleted
-- List
+  <li><a href="https://github.com/BYRONTOSH/Ordenamiento/tree/burbuja" target="_blank">Burbuja</a></li>
+  <li><a href="https://github.com/BYRONTOSH/Ordenamiento/tree/insercion" target="_blank">Inserción</a></li>
+  <li><a href="https://github.com/BYRONTOSH/Ordenamiento/tree/seleccion" target="_blank">Selección</a></li>
+   <li><a href="https://github.com/BYRONTOSH/Ordenamiento/tree/mergesort" target="_blank">MergeSort</a></li>
+  
+</ul>
 
-1. Numbered
-2. List
+<hr>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<h1>Ejercicios con Algoritmos de Busqueda</h1>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<div align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT80aoB0F1j-BIij97MMvrSJp8hiiM5BiR1LQ&usqp=CAU">
+</div>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BYRONTOSH/Plantilla/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<ul>
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  <li><a href="https://github.com/BYRONTOSH/Ordenamiento/tree/burbuja" target="_blank">Burbuja</a></li>
+  <li><a href="https://github.com/BYRONTOSH/Ordenamiento/tree/insercion" target="_blank">Inserción</a></li>
+  <li><a href="https://github.com/BYRONTOSH/Ordenamiento/tree/seleccion" target="_blank">Selección</a></li>
+   <li><a href="https://github.com/BYRONTOSH/Ordenamiento/tree/mergesort" target="_blank">MergeSort</a></li>
+  
+</ul>
